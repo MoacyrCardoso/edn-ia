@@ -1,4 +1,4 @@
-# edn-ia-1
+# edn-ia
 Atividades Escola da Nuvem - Inteligência Artificial
 
 # EDN IA
